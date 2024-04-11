@@ -16,5 +16,8 @@
   <img align="centrer" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="centrer" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="centrer" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img align="centrer" alt="sql" src="	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="centrer" alt="sql" src=	"https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
 </div>
+
+[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteRose-ph)](https://github.com/WhiteRose-ph/github-readme-stats)
