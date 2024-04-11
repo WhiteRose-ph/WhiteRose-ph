@@ -4,8 +4,8 @@
 - 🌱 Estudando C#, .NET e Unity Framework
 - 🤔 As tecnologias fazem parte da minha vida, e busco sempre aprender o funcionamento por trás delas!
 
-[![Twitter](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/_wh1terose)
-[![Discord](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://discord.gg/bhETCsmrT2)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bhETCsmrT2)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_wh1terose)
 [![Contato](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:peagaduarte8@outlook.com)
 
 ![WhiteRose GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteRose-ph&show_icons=true&theme=dracula)
